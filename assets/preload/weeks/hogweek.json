@@ -1,0 +1,41 @@
+{
+	"storyName": "Megadrive Flash Cart",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "hog",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hedge",
+			"hoggers",
+			[
+				180,
+				0,
+				0
+			]
+		],
+		[
+			"Manual Blast",
+			"hoggers",
+			[
+				180,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
