@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Hog.png" width="1561" height="1646">
+  <SubTexture name="Getfucked0033.png" x="0" y="0"  width="352.2" height="235.2" frameX="-497.4" frameY="-441" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogRight0000.png" x="0" y="235.2"  width="243.6" height="207" frameX="-477.59999999999997" frameY="-459.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogUp0000.png" x="243.6" y="235.2" width="256.2" height="192.6" rotated="true"  frameX="-464.4" frameY="-412.2" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogRight0001.png" x="243.6" y="427.8"  width="241.79999999999998" height="204" frameX="-472.79999999999995" frameY="-462" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogRight0002.png" x="0" y="442.2"  width="234" height="202.79999999999998" frameX="-470.4" frameY="-463.79999999999995" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogRight0004.png" x="485.4" y="427.8"  width="233.39999999999998" height="202.2" frameX="-469.2" frameY="-464.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogRight0003.png" x="352.2" y="0"  width="232.79999999999998" height="201.6" frameX="-469.2" frameY="-464.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogUp0001.png" x="499.79999999999995" y="201.6" width="245.39999999999998" height="189.6" rotated="true"  frameX="-465.59999999999997" frameY="-422.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogUp0002.png" x="485.4" y="630" width="234.6" height="186" rotated="true"  frameX="-471.59999999999997" frameY="-433.2" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0025.png" x="234" y="631.8"  width="215.4" height="200.4" frameX="-490.2" frameY="-516.6" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogUp0003.png" x="0" y="645" width="229.79999999999998" height="184.2" rotated="true"  frameX="-472.79999999999995" frameY="-438" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogUp0004.png" x="718.8" y="391.2"  width="184.2" height="229.79999999999998" frameX="-472.79999999999995" frameY="-438" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0029.png" x="585" y="0"  width="260.4" height="160.2" frameX="-489.59999999999997" frameY="-539.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0026.png" x="720" y="621"  width="192" height="209.4" frameX="-493.79999999999995" frameY="-507.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogDown0002.png" x="745.1999999999999" y="160.2" width="184.79999999999998" height="217.2" rotated="true"  frameX="-460.2" frameY="-480" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0028.png" x="0" y="829.1999999999999"  width="203.4" height="196.79999999999998" frameX="-498.59999999999997" frameY="-526.8" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogDown0003.png" x="449.4" y="816"  width="214.2" height="186" frameX="-460.79999999999995" frameY="-478.79999999999995" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0027.png" x="203.4" y="832.1999999999999" width="201.6" height="196.79999999999998" rotated="true"  frameX="-496.2" frameY="-513.6" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0006.png" x="663.6" y="830.4" width="208.2" height="184.79999999999998" rotated="true"  frameX="-501.59999999999997" frameY="-466.2" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogDown0001.png" x="871.8" y="830.4"  width="209.4" height="183.6" frameX="-468.59999999999997" frameY="-480.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogLeft0000.png" x="903" y="377.4"  width="182.4" height="205.79999999999998" frameX="-436.8" frameY="-457.2" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0024.png" x="912" y="583.1999999999999" width="179.4" height="207" rotated="true"  frameX="-489.59999999999997" frameY="-502.79999999999995" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0007.png" x="0" y="1026"  width="190.79999999999998" height="193.79999999999998" frameX="-505.2" frameY="-480.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogLeft0001.png" x="871.8" y="1014"  width="178.79999999999998" height="204.6" frameX="-445.8" frameY="-458.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogLeft0002.png" x="405" y="1002"  width="177.6" height="204.6" frameX="-448.8" frameY="-458.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogLeft0003.png" x="190.79999999999998" y="1029" width="204.6" height="177" rotated="true"  frameX="-449.4" frameY="-458.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogLeft0004.png" x="582.6" y="1015.1999999999999"  width="177" height="204.6" frameX="-449.4" frameY="-458.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogDown0000.png" x="930" y="0" width="175.79999999999998" height="202.79999999999998" rotated="true"  frameX="-474.59999999999997" frameY="-488.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0030.png" x="1085.3999999999999" y="202.79999999999998" width="115.19999999999999" height="308.4" rotated="true"  frameX="-547.8" frameY="-510" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0034.png" x="190.79999999999998" y="1206" width="213" height="165" rotated="true"  frameX="-525" frameY="-462.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0032.png" x="1050.6" y="1014" width="136.2" height="254.39999999999998" rotated="true"  frameX="-546" frameY="-539.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0012.png" x="1105.8" y="0"  width="181.79999999999998" height="189" frameX="-474.59999999999997" frameY="-485.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0011.png" x="1081.2" y="790.1999999999999"  width="181.2" height="189" frameX="-475.2" frameY="-485.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0013.png" x="1091.3999999999999" y="511.2"  width="181.2" height="189" frameX="-475.2" frameY="-485.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0010.png" x="1200.6" y="189"  width="181.79999999999998" height="187.79999999999998" frameX="-474.59999999999997" frameY="-486.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0007.png" x="759.6" y="1218.6" width="213.6" height="154.79999999999998" rotated="true"  frameX="-492" frameY="-452.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0005.png" x="403.8" y="1219.8" width="211.2" height="154.2" rotated="true"  frameX="-492" frameY="-452.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0006.png" x="1186.8" y="979.1999999999999"  width="154.2" height="210.6" frameX="-492" frameY="-452.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0005.png" x="1186.8" y="1189.8" width="207.6" height="156" rotated="true"  frameX="-502.2" frameY="-466.79999999999995" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0008.png" x="973.1999999999999" y="1268.3999999999999"  width="153.6" height="210.6" frameX="-492" frameY="-452.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0003.png" x="1126.8" y="1345.8" width="210" height="153" rotated="true"  frameX="-493.79999999999995" frameY="-453.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0004.png" x="615" y="1373.3999999999999" width="209.4" height="153" rotated="true"  frameX="-493.79999999999995" frameY="-453.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0008.png" x="0" y="1219.8"  width="170.4" height="186.6" frameX="-507" frameY="-487.79999999999995" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0002.png" x="170.4" y="1371" width="206.4" height="153.6" rotated="true"  frameX="-493.2" frameY="-456.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0000.png" x="376.8" y="1374" width="205.79999999999998" height="153" rotated="true"  frameX="-493.2" frameY="-458.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="HogIdle0001.png" x="1336.8" y="1345.8" width="204.6" height="153" rotated="true"  frameX="-493.2" frameY="-458.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0009.png" x="1287.6" y="0"  width="162.6" height="186.6" frameX="-493.2" frameY="-487.79999999999995" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0004.png" x="1262.3999999999999" y="700.1999999999999"  width="144" height="206.4" frameX="-504.59999999999997" frameY="-468" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0003.png" x="1341" y="906.6"  width="140.4" height="204.6" frameX="-505.2" frameY="-471" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0001.png" x="1394.3999999999999" y="1111.2"  width="143.4" height="198.6" frameX="-504.59999999999997" frameY="-477.59999999999997" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0000.png" x="1382.3999999999999" y="186.6"  width="144" height="196.2" frameX="-504" frameY="-478.2" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0002.png" x="1406.3999999999999" y="382.8"  width="141" height="199.79999999999998" frameX="-505.79999999999995" frameY="-476.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0016.png" x="1272.6" y="582.6"  width="224.4" height="115.19999999999999" frameX="-460.79999999999995" frameY="-557.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0017.png" x="824.4" y="1373.3999999999999" width="109.2" height="222.6" rotated="true"  frameX="-459" frameY="-564" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0015.png" x="1200.6" y="382.8"  width="204.6" height="118.8" frameX="-455.4" frameY="-553.8" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0014.png" x="582.6" y="1526.3999999999999"  width="202.2" height="120" frameX="-453.59999999999997" frameY="-553.8" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0018.png" x="0" y="1406.3999999999999" width="105.6" height="217.79999999999998" rotated="true"  frameX="-460.79999999999995" frameY="-567" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0035.png" x="933.5999999999999" y="1479"  width="178.2" height="125.39999999999999" frameX="-513" frameY="-549.6" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0021.png" x="930" y="202.79999999999998" width="132" height="159" rotated="true"  frameX="-486.59999999999997" frameY="-542.4" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0022.png" x="1406.3999999999999" y="697.8" width="124.19999999999999" height="168.6" rotated="true"  frameX="-479.4" frameY="-552" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0019.png" x="1450.2" y="0" width="110.39999999999999" height="184.2" rotated="true"  frameX="-460.79999999999995" frameY="-565.1999999999999" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0031.png" x="105.6" y="1524.6"  width="164.4" height="121.8" frameX="-653.4" frameY="-502.2" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0020.png" x="270" y="1527"  width="162.6" height="119.39999999999999" frameX="-482.4" frameY="-555.6" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0023.png" x="432.59999999999997" y="1527" width="127.8" height="118.8" rotated="true"  frameX="-565.8" frameY="-549" frameWidth="1152" frameHeight="1152"/>
+  <SubTexture name="Getfucked0036.png" x="615" y="1219.8" width="92.39999999999999" height="153" rotated="true"  frameX="-517.8" frameY="-583.1999999999999" frameWidth="1152" frameHeight="1152"/>
+</TextureAtlas>

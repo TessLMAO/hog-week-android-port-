@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BFhog.png" width="2394" height="1893">
+  <SubTexture name="BF NOTE UP MISS0002.png" x="0" y="0" width="301" height="249.2" rotated="true"  frameX="-218.39999999999998" frameY="-203" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE UP MISS0003.png" x="301" y="0" width="301" height="249.2" rotated="true"  frameX="-218.39999999999998" frameY="-203" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE DOWN0000.png" x="602" y="0"  width="261.8" height="249.89999999999998" frameX="-219.1" frameY="-225.39999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE DOWN0001.png" x="863.8" y="0"  width="261.8" height="249.89999999999998" frameX="-219.1" frameY="-225.39999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE UP MISS0000.png" x="1125.6" y="0" width="298.9" height="251.29999999999998" rotated="true"  frameX="-217" frameY="-205.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE UP MISS0001.png" x="1424.5" y="0" width="298.9" height="251.29999999999998" rotated="true"  frameX="-217" frameY="-205.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE DOWN0002.png" x="1723.3999999999999" y="0"  width="261.09999999999997" height="252.7" frameX="-219.79999999999998" frameY="-222.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE DOWN0003.png" x="1984.4999999999998" y="0"  width="261.09999999999997" height="252.7" frameX="-219.79999999999998" frameY="-222.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE LEFT MISS0000.png" x="0" y="249.2" width="301" height="258.3" rotated="true"  frameX="-221.2" frameY="-199.5" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE LEFT MISS0001.png" x="301" y="249.2" width="301" height="258.3" rotated="true"  frameX="-221.2" frameY="-199.5" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE UP0000.png" x="602" y="249.89999999999998" width="312.2" height="258.3" rotated="true"  frameX="-221.2" frameY="-193.89999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE UP0001.png" x="914.1999999999999" y="251.29999999999998" width="312.2" height="258.3" rotated="true"  frameX="-221.2" frameY="-193.89999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE LEFT MISS0002.png" x="1226.3999999999999" y="251.29999999999998" width="301" height="259" rotated="true"  frameX="-220.5" frameY="-199.5" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE LEFT MISS0003.png" x="1527.3999999999999" y="252.7" width="301" height="259" rotated="true"  frameX="-220.5" frameY="-199.5" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE LEFT0002.png" x="1828.3999999999999" y="252.7" width="282.79999999999995" height="261.8" rotated="true"  frameX="-223.29999999999998" frameY="-209.29999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE LEFT0003.png" x="2111.2" y="252.7" width="282.79999999999995" height="261.8" rotated="true"  frameX="-223.29999999999998" frameY="-209.29999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0000.png" x="0" y="507.49999999999994" width="283.5" height="262.5" rotated="true"  frameX="-219.1" frameY="-208.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0001.png" x="283.5" y="507.49999999999994" width="283.5" height="262.5" rotated="true"  frameX="-219.1" frameY="-208.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0002.png" x="567" y="508.2" width="283.5" height="262.5" rotated="true"  frameX="-219.1" frameY="-208.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0003.png" x="850.5" y="509.59999999999997" width="283.5" height="262.5" rotated="true"  frameX="-219.1" frameY="-208.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE DOWN MISS0000.png" x="1134" y="510.29999999999995" width="275.09999999999997" height="263.2" rotated="true"  frameX="-218.39999999999998" frameY="-212.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE DOWN MISS0001.png" x="1409.1" y="511.7" width="275.09999999999997" height="263.2" rotated="true"  frameX="-218.39999999999998" frameY="-212.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE UP0002.png" x="1684.1999999999998" y="514.5" width="308.7" height="263.2" rotated="true"  frameX="-217.7" frameY="-197.39999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE UP0003.png" x="1992.8999999999999" y="514.5" width="308.7" height="263.2" rotated="true"  frameX="-217.7" frameY="-197.39999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE DOWN MISS0002.png" x="0" y="770" width="272.29999999999995" height="264.59999999999997" rotated="true"  frameX="-217.7" frameY="-215.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE DOWN MISS0003.png" x="272.29999999999995" y="770" width="272.29999999999995" height="264.59999999999997" rotated="true"  frameX="-217.7" frameY="-215.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0004.png" x="544.5999999999999" y="770.6999999999999" width="282.09999999999997" height="266" rotated="true"  frameX="-217" frameY="-209.29999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0005.png" x="826.6999999999999" y="772.0999999999999" width="282.09999999999997" height="266" rotated="true"  frameX="-217" frameY="-209.29999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0006.png" x="1108.8" y="773.5" width="282.09999999999997" height="266.7" rotated="true"  frameX="-217" frameY="-209.29999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0007.png" x="1390.8999999999999" y="774.9" width="282.09999999999997" height="266.7" rotated="true"  frameX="-217" frameY="-209.29999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0008.png" x="1673" y="777.6999999999999" width="282.09999999999997" height="266.7" rotated="true"  frameX="-217" frameY="-209.29999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="boyfriend dodge0009.png" x="1955.1" y="777.6999999999999" width="282.09999999999997" height="266.7" rotated="true"  frameX="-217" frameY="-209.29999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE LEFT0000.png" x="0" y="1034.6" width="284.2" height="268.09999999999997" rotated="true"  frameX="-216.29999999999998" frameY="-207.89999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE LEFT0001.png" x="284.2" y="1036.7" width="284.2" height="268.09999999999997" rotated="true"  frameX="-216.29999999999998" frameY="-207.89999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0000.png" x="568.4" y="1038.1"  width="284.2" height="274.4" frameX="-207.89999999999998" frameY="-212.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0001.png" x="852.5999999999999" y="1040.2"  width="284.2" height="274.4" frameX="-207.89999999999998" frameY="-212.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0002.png" x="1136.8" y="1041.6"  width="285.59999999999997" height="275.79999999999995" frameX="-206.5" frameY="-211.39999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0003.png" x="1422.3999999999999" y="1044.3999999999999"  width="285.59999999999997" height="275.79999999999995" frameX="-206.5" frameY="-211.39999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE RIGHT MISS0000.png" x="1708" y="1044.3999999999999" width="302.4" height="276.5" rotated="true"  frameX="-212.1" frameY="-198.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE RIGHT MISS0001.png" x="2010.3999999999999" y="1044.3999999999999" width="302.4" height="276.5" rotated="true"  frameX="-212.1" frameY="-198.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0004.png" x="0" y="1302.6999999999998"  width="283.5" height="279.29999999999995" frameX="-207.89999999999998" frameY="-207.89999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0005.png" x="283.5" y="1304.8"  width="283.5" height="279.29999999999995" frameX="-207.89999999999998" frameY="-207.89999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE RIGHT MISS0002.png" x="567" y="1314.6" width="302.4" height="279.29999999999995" rotated="true"  frameX="-213.5" frameY="-198.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE RIGHT MISS0003.png" x="869.4" y="1317.3999999999999" width="302.4" height="279.29999999999995" rotated="true"  frameX="-213.5" frameY="-198.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE RIGHT0000.png" x="1171.8" y="1320.1999999999998"  width="286.29999999999995" height="283.5" frameX="-207.2" frameY="-208.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE RIGHT0001.png" x="1458.1" y="1320.8999999999999"  width="286.29999999999995" height="283.5" frameX="-207.2" frameY="-208.6" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE RIGHT0002.png" x="1744.3999999999999" y="1320.8999999999999"  width="285.59999999999997" height="285.59999999999997" frameX="-207.2" frameY="-206.5" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF NOTE RIGHT0003.png" x="2029.9999999999998" y="1320.8999999999999"  width="285.59999999999997" height="285.59999999999997" frameX="-207.2" frameY="-206.5" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0008.png" x="0" y="1584.1" width="289.09999999999997" height="286.29999999999995" rotated="true"  frameX="-207.2" frameY="-198.1" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0009.png" x="289.09999999999997" y="1593.8999999999999" width="289.09999999999997" height="286.29999999999995" rotated="true"  frameX="-207.2" frameY="-198.1" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0010.png" x="578.1999999999999" y="1593.8999999999999" width="289.09999999999997" height="286.29999999999995" rotated="true"  frameX="-207.2" frameY="-198.1" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0011.png" x="867.3" y="1596.6999999999998" width="289.09999999999997" height="286.29999999999995" rotated="true"  frameX="-207.2" frameY="-198.1" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0012.png" x="1156.3999999999999" y="1603.6999999999998" width="289.09999999999997" height="286.29999999999995" rotated="true"  frameX="-207.2" frameY="-198.1" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0006.png" x="1445.5" y="1604.3999999999999" width="288.4" height="287" rotated="true"  frameX="-206.5" frameY="-198.79999999999998" frameWidth="700" frameHeight="700"/>
+  <SubTexture name="BF idle dance0007.png" x="1733.8999999999999" y="1606.5" width="288.4" height="287" rotated="true"  frameX="-206.5" frameY="-198.79999999999998" frameWidth="700" frameHeight="700"/>
+</TextureAtlas>
